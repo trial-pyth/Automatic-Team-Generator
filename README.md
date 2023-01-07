@@ -1,4 +1,4 @@
-# foot-team
+# Python Tkinter OOP
 GUI application for creating 2 teams of equal strength
 
 * Register at the website for applying to join the club

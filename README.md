@@ -1,5 +1,5 @@
 # ⚽️ Python Tkinter OOP
-💻 This is a GUI application for creating 2 teams of equal strength
+💻 This is a GUI application for creating two teams of near equal strength based on a players rating and their positions
 
 * Choose the available players to create two teams
 * Creates two teams of nearly equal strength

@@ -1,8 +1,8 @@
 # Python Tkinter OOP
-GUI application for creating 2 teams of equal strength
+This is a GUI application for creating 2 teams of equal strength
 
-* Register at the website for applying to join the club
-* Choose a position (mandatory).
-* Players strength will be determined after playing once
+* Choose the available players to create two teams
+* Creates two teams of nearly equal strength
+* If not satisified, clear and attempt again
 
 ![gui-gfc](https://github.com/trial-pyth/foot-team/blob/main/gfctrial.jpg)

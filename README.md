@@ -7,4 +7,4 @@
 
 Tutorial down below 👇🏼 
 
-<img src="https://raw.githubusercontent.com/trial-pyth/Automatic-Team-Generator/main/tkinter-team.gif" alt="tkinter-gif" width=600 height=400 />
+<img src="https://raw.githubusercontent.com/trial-pyth/Automatic-Team-Generator/main/tkinter-team.gif" alt="tkinter-gif" width=600 height=400 /><sub><sup>⌛ Please wait until GIF loads</sup></sub>
